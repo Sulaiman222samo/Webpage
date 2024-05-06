@@ -1,0 +1,6 @@
+<Button
+    android:id="@+id/buttonGoToSecondPage"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Go to 2nd Page"
+    android:onClick="goToSecondPage" />
